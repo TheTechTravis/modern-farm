@@ -3,8 +3,11 @@ import { createAsparagus } from "./seeds/asparagus.js";
 
 console.log("Welcome to the main module")
 
-const yearlyPlan = createPlan()
+// This code validates createPlan() functionality
+// const yearlyPlan = createPlan()
 // console.log(yearlyPlan)
 
-const listOfCreatedAsparagus = createAsparagus()
-// console.log(listOfCreatedAsparagus)
+
+// This code validates createSeed functionality {createCorn(), createAsparagus(), etc.}
+// const asparagusSeed = createAsparagus()
+// console.log(asparagusSeed)
