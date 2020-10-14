@@ -1,3 +1,4 @@
+// Returns asparagus object
 export const createAsparagus = () => {
     let asparagusSeedObj = {
         type: "asparagus",
